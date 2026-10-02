@@ -6,12 +6,12 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
-| 🔹 Basic Select     | 8          |
+| 🔹 Basic Select     | 9          |
 | 🔸 Advanced Select  | 0          |
 | 📊 Aggregation      | 0          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **8**      |
+| **Total**           | **9**      |
 
 ## 📚 Problems
 
@@ -27,6 +27,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 6 | Japanese Cities' Names | SELECT, WHERE | [View](Basic-Select/japanese-cities-names) |
 | 7 | Weather Observation Station 1 | SELECT | [View](Basic-Select/weather-observation-station-1) |
 | 8 | Weather Observation Station 3 | SELECT, DISTINCT, WHERE, MOD | [View](Basic-Select/weather-observation-station-3) |
+| 9 | Weather Observation Station 4 | COUNT, DISTINCT | [View](Basic-Select/weather-observation-station-4) |
 
 ### 🔸 Advanced Select
 
