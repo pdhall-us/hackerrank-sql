@@ -6,12 +6,12 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
-| 🔹 Basic Select     | 4          |
+| 🔹 Basic Select     | 5          |
 | 🔸 Advanced Select  | 0          |
 | 📊 Aggregation      | 0          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **4**      |
+| **Total**           | **5**      |
 
 ## 📚 Problems
 
@@ -23,6 +23,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 2 | Revising the Select Query II | SELECT, WHERE, AND | [View](Basic-Select/revising-the-select-query-ii) |
 | 3 | Select All | SELECT | [View](Basic-Select/select-all) |
 | 4 | Select By ID | SELECT, WHERE | [View](Basic-Select/select-by-id) |
+| 5 | Japanese Cities' Attributes | SELECT, WHERE | [View](Basic-Select/japanese-cities-attributes) |
 
 ### 🔸 Advanced Select
 
