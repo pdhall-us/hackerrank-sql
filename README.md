@@ -8,10 +8,10 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | ------------------- | ---------- |
 | 🔹 Basic Select     | 20         |
 | 🔸 Advanced Select  | 2          |
-| 📊 Aggregation      | 11         |
+| 📊 Aggregation      | 12         |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **33**     |
+| **Total**           | **34**     |
 
 ## 📚 Problems
 
@@ -62,6 +62,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 9 | Weather Observation Station 13 | SUM, TRUNCATE, WHERE | [View](Aggregation/weather-observation-station-13) |
 | 10 | Weather Observation Station 14 | MAX, TRUNCATE, WHERE | [View](Aggregation/weather-observation-station-14) |
 | 11 | Weather Observation Station 15 | MAX, ROUND, WHERE | [View](Aggregation/weather-observation-station-15) |
+| 12 | Weather Observation Station 16 | MIN, ROUND, WHERE | [View](Aggregation/weather-observation-station-16) |
 
 ### 🔗 Basic Join
 
