@@ -8,10 +8,10 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | ------------------- | ---------- |
 | 🔹 Basic Select     | 20         |
 | 🔸 Advanced Select  | 2          |
-| 📊 Aggregation      | 8          |
+| 📊 Aggregation      | 9          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **30**     |
+| **Total**           | **31**     |
 
 ## 📚 Problems
 
@@ -59,6 +59,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 6 | The Blunder | AVG, REPLACE, CEIL | [View](Aggregation/the-blunder) |
 | 7 | Top Earners | MAX, COUNT, GROUP BY, ORDER BY | [View](Aggregation/top-earners) |
 | 8 | Weather Observation Station 2 | SUM, ROUND | [View](Aggregation/weather-observation-station-2) |
+| 9 | Weather Observation Station 13 | SUM, TRUNCATE, WHERE | [View](Aggregation/weather-observation-station-13) |
 
 ### 🔗 Basic Join
 
