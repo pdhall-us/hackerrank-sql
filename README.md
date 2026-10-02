@@ -8,10 +8,10 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | ------------------- | ---------- |
 | 🔹 Basic Select     | 20         |
 | 🔸 Advanced Select  | 2          |
-| 📊 Aggregation      | 2          |
+| 📊 Aggregation      | 3          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **24**     |
+| **Total**           | **25**     |
 
 ## 📚 Problems
 
@@ -53,6 +53,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | - | ------- | ------ | -------- |
 | 1 | Revising Aggregations - The Count Function | COUNT, WHERE | [View](Aggregation/revising-aggregations-the-count-function) |
 | 2 | Revising Aggregations - The Sum Function | SUM, WHERE | [View](Aggregation/revising-aggregations-the-sum-function) |
+| 3 | Revising Aggregations - Averages | AVG, WHERE | [View](Aggregation/revising-aggregations-averages) |
 
 ### 🔗 Basic Join
 
