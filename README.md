@@ -8,10 +8,10 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | ------------------- | ---------- |
 | 🔹 Basic Select     | 20         |
 | 🔸 Advanced Select  | 2          |
-| 📊 Aggregation      | 7          |
+| 📊 Aggregation      | 8          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **29**     |
+| **Total**           | **30**     |
 
 ## 📚 Problems
 
@@ -58,6 +58,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 5 | Population Density Difference | MAX, MIN | [View](Aggregation/population-density-difference) |
 | 6 | The Blunder | AVG, REPLACE, CEIL | [View](Aggregation/the-blunder) |
 | 7 | Top Earners | MAX, COUNT, GROUP BY, ORDER BY | [View](Aggregation/top-earners) |
+| 8 | Weather Observation Station 2 | SUM, ROUND | [View](Aggregation/weather-observation-station-2) |
 
 ### 🔗 Basic Join
 
