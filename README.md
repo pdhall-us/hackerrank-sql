@@ -6,12 +6,12 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
-| 🔹 Basic Select     | 1          |
+| 🔹 Basic Select     | 2          |
 | 🔸 Advanced Select  | 0          |
 | 📊 Aggregation      | 0          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **1**      |
+| **Total**           | **2**      |
 
 ## 📚 Problems
 
@@ -20,6 +20,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | # | Problem | Topics | Solution |
 | - | ------- | ------ | -------- |
 | 1 | Revising the Select Query I | SELECT, WHERE, AND | [View](Basic-Select/revising-the-select-query-i) |
+| 2 | Revising the Select Query II | SELECT, WHERE, AND | [View](Basic-Select/revising-the-select-query-ii) |
 
 ### 🔸 Advanced Select
 
@@ -43,14 +44,34 @@ No problems solved yet.
 hackerrank-sql/
 │
 ├── Basic-Select/
-│   └── revising-the-select-query-i/
-│       ├── README.md
-│       └── solution.sql
+│   ├── revising-the-select-query-i/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   └── ...
 │
 ├── Advanced-Select/
+│   ├── <problem-folder>/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   └── ...
+│
 ├── Aggregation/
+│   ├── <problem-folder>/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   └── ...
+│
 ├── Basic-Join/
+│   ├── <problem-folder>/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   └── ...
+│
 ├── Advanced-Join/
+│   ├── <problem-folder>/
+│   │   ├── README.md
+│   │   └── solution.sql
+│   └── ...
 │
 └── README.md
 ```
