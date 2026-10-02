@@ -7,11 +7,11 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
 | 🔹 Basic Select     | 20         |
-| 🔸 Advanced Select  | 0          |
+| 🔸 Advanced Select  | 1          |
 | 📊 Aggregation      | 0          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **20**     |
+| **Total**           | **21**     |
 
 ## 📚 Problems
 
@@ -42,7 +42,9 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 ### 🔸 Advanced Select
 
-No problems solved yet.
+| # | Problem | Topics | Solution |
+| - | ------- | ------ | -------- |
+| 1 | Type of Triangle | CASE, WHEN, AND, OR | [View](Advanced-Select/type-of-triangle) |
 
 ### 📊 Aggregation
 
@@ -68,7 +70,7 @@ hackerrank-sql/
 │   └── ...
 │
 ├── Advanced-Select/
-│   ├── <problem-folder>/
+│   ├── type-of-triangle/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   └── ...
