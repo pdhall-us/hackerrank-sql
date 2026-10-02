@@ -6,12 +6,12 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
-| 🔹 Basic Select     | 3          |
+| 🔹 Basic Select     | 4          |
 | 🔸 Advanced Select  | 0          |
 | 📊 Aggregation      | 0          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **3**      |
+| **Total**           | **4**      |
 
 ## 📚 Problems
 
@@ -22,6 +22,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 1 | Revising the Select Query I | SELECT, WHERE, AND | [View](Basic-Select/revising-the-select-query-i) |
 | 2 | Revising the Select Query II | SELECT, WHERE, AND | [View](Basic-Select/revising-the-select-query-ii) |
 | 3 | Select All | SELECT | [View](Basic-Select/select-all) |
+| 4 | Select By ID | SELECT, WHERE | [View](Basic-Select/select-by-id) |
 
 ### 🔸 Advanced Select
 
