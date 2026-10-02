@@ -8,10 +8,10 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | ------------------- | ---------- |
 | 🔹 Basic Select     | 20         |
 | 🔸 Advanced Select  | 2          |
-| 📊 Aggregation      | 4          |
+| 📊 Aggregation      | 5          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **26**     |
+| **Total**           | **27**     |
 
 ## 📚 Problems
 
@@ -55,6 +55,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 2 | Revising Aggregations - The Sum Function | SUM, WHERE | [View](Aggregation/revising-aggregations-the-sum-function) |
 | 3 | Revising Aggregations - Averages | AVG, WHERE | [View](Aggregation/revising-aggregations-averages) |
 | 4 | Japan Population | SUM, WHERE | [View](Aggregation/japan-population) |
+| 5 | Population Density Difference | MAX, MIN | [View](Aggregation/population-density-difference) |
 
 ### 🔗 Basic Join
 
