@@ -6,12 +6,12 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
-| 🔹 Basic Select     | 15         |
+| 🔹 Basic Select     | 16         |
 | 🔸 Advanced Select  | 0          |
 | 📊 Aggregation      | 0          |
 | 🔗 Basic Join       | 0          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **15**     |
+| **Total**           | **16**     |
 
 ## 📚 Problems
 
@@ -34,6 +34,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 13 | Weather Observation Station 8 | DISTINCT, WHERE, LIKE, AND | [View](Basic-Select/weather-observation-station-8) |
 | 14 | Weather Observation Station 9 | DISTINCT, WHERE, NOT LIKE | [View](Basic-Select/weather-observation-station-9) |
 | 15 | Weather Observation Station 10 | DISTINCT, WHERE, NOT LIKE | [View](Basic-Select/weather-observation-station-10) |
+| 16 | Weather Observation Station 11 | DISTINCT, WHERE, NOT LIKE, OR | [View](Basic-Select/weather-observation-station-11) |
 
 ### 🔸 Advanced Select
 
