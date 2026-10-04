@@ -9,9 +9,9 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | 🔹 Basic Select     | 20         |
 | 🔸 Advanced Select  | 2          |
 | 📊 Aggregation      | 13         |
-| 🔗 Basic Join       | 2          |
+| 🔗 Basic Join       | 3          |
 | 🧩 Advanced Join    | 0          |
-| **Total**           | **37**     |
+| **Total**           | **38**     |
 
 ## 📚 Problems
 
@@ -71,6 +71,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | - | ------- | ------ | -------- |
 | 1 | Asian Population | INNER JOIN, SUM, WHERE | [View](Basic-Join/asian-population) |
 | 2 | African Cities | INNER JOIN, WHERE | [View](Basic-Join/african-cities) |
+| 3 | Average Population of Each Continent | INNER JOIN, AVG, FLOOR, GROUP BY | [View](Basic-Join/average-population-of-each-continent) |
 
 ### 🧩 Advanced Join
 
