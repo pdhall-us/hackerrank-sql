@@ -2,16 +2,16 @@
 
 A structured collection of my solutions to **HackerRank SQL problems**, focused on improving my understanding of **SQL concepts, database querying, problem-solving techniques, and query optimization**.
 
-## 📊 Progress
+## 📊 Solution Summary
 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
-| 🔹 Basic Select     | 20         |
-| 🔸 Advanced Select  | 2          |
-| 📊 Aggregation      | 13         |
-| 🔗 Basic Join       | 3          |
-| 🧩 Advanced Join    | 0          |
-| **Total**           | **38**     |
+| 🔹 Basic Select | 20 |
+| 🔸 Advanced Select | 2 |
+| 📊 Aggregation | 13 |
+| 🔗 Basic Join | 3 |
+| 🧩 Advanced Join | 1 |
+| **Total** | **39** |
 
 ## 📚 Problems
 
@@ -75,7 +75,9 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 
 ### 🧩 Advanced Join
 
-No problems solved yet.
+| # | Problem | Topics | Solution |
+| - | ------- | ------ | -------- |
+| 1 | Project Planning | Subqueries, NOT IN, DATEDIFF, ORDER BY | [View](Advanced-Join/project-planning) |
 
 ## 📁 Repository Structure
 
@@ -107,7 +109,7 @@ hackerrank-sql/
 │   └── ...
 │
 ├── Advanced-Join/
-│   ├── <problem-folder>/
+│   ├── project-planning/
 │   │   ├── README.md
 │   │   └── solution.sql
 │   └── ...
