@@ -7,11 +7,11 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | **Category** | **Solved** |
 | ------------------- | ---------- |
 | 🔹 Basic Select | 20 |
-| 🔸 Advanced Select | 2 |
+| 🔸 Advanced Select | 3 |
 | 📊 Aggregation | 13 |
 | 🔗 Basic Join | 3 |
 | 🧩 Advanced Join | 1 |
-| **Total** | **39** |
+| **Total** | **40** |
 
 ## 📚 Problems
 
@@ -46,6 +46,7 @@ A structured collection of my solutions to **HackerRank SQL problems**, focused 
 | - | ------- | ------ | -------- |
 | 1 | Type of Triangle | CASE, WHEN, AND, OR | [View](Advanced-Select/type-of-triangle) |
 | 2 | The PADS | CONCAT, LEFT, COUNT, LOWER, GROUP BY, ORDER BY | [View](Advanced-Select/the-pads) |
+| 3 | Occupations | ROW_NUMBER, CASE, MAX, GROUP BY, ORDER BY | [View](Advanced-Select/occupations) |
 
 ### 📊 Aggregation
 
